@@ -10,3 +10,4 @@ print(f"El valor del area del rectangulo es: {area}")
 perimetro= (altura + base) * 2
 
 print(f"El valor del perimetro es: {perimetro}")
+print("Ten un buen dia")
